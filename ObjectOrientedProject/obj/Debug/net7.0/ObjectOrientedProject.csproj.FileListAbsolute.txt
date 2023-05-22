@@ -1,0 +1,15 @@
+/home/sinchan/Work/projects/Learning_C_Sharp/ObjectOrientedProject/bin/Debug/net7.0/ObjectOrientedProject
+/home/sinchan/Work/projects/Learning_C_Sharp/ObjectOrientedProject/bin/Debug/net7.0/ObjectOrientedProject.deps.json
+/home/sinchan/Work/projects/Learning_C_Sharp/ObjectOrientedProject/bin/Debug/net7.0/ObjectOrientedProject.runtimeconfig.json
+/home/sinchan/Work/projects/Learning_C_Sharp/ObjectOrientedProject/bin/Debug/net7.0/ObjectOrientedProject.dll
+/home/sinchan/Work/projects/Learning_C_Sharp/ObjectOrientedProject/bin/Debug/net7.0/ObjectOrientedProject.pdb
+/home/sinchan/Work/projects/Learning_C_Sharp/ObjectOrientedProject/obj/Debug/net7.0/ObjectOrientedProject.csproj.AssemblyReference.cache
+/home/sinchan/Work/projects/Learning_C_Sharp/ObjectOrientedProject/obj/Debug/net7.0/ObjectOrientedProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/sinchan/Work/projects/Learning_C_Sharp/ObjectOrientedProject/obj/Debug/net7.0/ObjectOrientedProject.AssemblyInfoInputs.cache
+/home/sinchan/Work/projects/Learning_C_Sharp/ObjectOrientedProject/obj/Debug/net7.0/ObjectOrientedProject.AssemblyInfo.cs
+/home/sinchan/Work/projects/Learning_C_Sharp/ObjectOrientedProject/obj/Debug/net7.0/ObjectOrientedProject.csproj.CoreCompileInputs.cache
+/home/sinchan/Work/projects/Learning_C_Sharp/ObjectOrientedProject/obj/Debug/net7.0/ObjectOrientedProject.dll
+/home/sinchan/Work/projects/Learning_C_Sharp/ObjectOrientedProject/obj/Debug/net7.0/refint/ObjectOrientedProject.dll
+/home/sinchan/Work/projects/Learning_C_Sharp/ObjectOrientedProject/obj/Debug/net7.0/ObjectOrientedProject.pdb
+/home/sinchan/Work/projects/Learning_C_Sharp/ObjectOrientedProject/obj/Debug/net7.0/ObjectOrientedProject.genruntimeconfig.cache
+/home/sinchan/Work/projects/Learning_C_Sharp/ObjectOrientedProject/obj/Debug/net7.0/ref/ObjectOrientedProject.dll
